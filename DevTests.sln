@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTests.Javascript.StringCalculator", "DevTests.Javascript.StringCalculator\DevTests.Javascript.StringCalculator.csproj", "{9EBE17F7-384D-47D6-AA21-A7DB51D5DF6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTests.CSharp.Recursion", "DevTests.CSharp.Recursion\DevTests.CSharp.Recursion.csproj", "{F9102B79-8461-408D-A5BA-E136BB922601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTests.CSharp.StringCalculator", "DevTests.CSharp.StringCalculator\DevTests.CSharp.StringCalculator.csproj", "{4E6ED611-C7BE-4DC3-BCA1-A99A22AC9690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBE17F7-384D-47D6-AA21-A7DB51D5DF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBE17F7-384D-47D6-AA21-A7DB51D5DF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBE17F7-384D-47D6-AA21-A7DB51D5DF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBE17F7-384D-47D6-AA21-A7DB51D5DF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9102B79-8461-408D-A5BA-E136BB922601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9102B79-8461-408D-A5BA-E136BB922601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9102B79-8461-408D-A5BA-E136BB922601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9102B79-8461-408D-A5BA-E136BB922601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6ED611-C7BE-4DC3-BCA1-A99A22AC9690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6ED611-C7BE-4DC3-BCA1-A99A22AC9690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6ED611-C7BE-4DC3-BCA1-A99A22AC9690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6ED611-C7BE-4DC3-BCA1-A99A22AC9690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
