@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculator.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="when_calculating_strings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
