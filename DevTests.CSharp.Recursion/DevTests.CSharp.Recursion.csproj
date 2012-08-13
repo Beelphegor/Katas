@@ -46,7 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="when_printing_a_hierarchy_as_a_pre_order_string.cs" />
+    <Compile Include="ListExtensions.cs" />
+    <Compile Include="when_printing_a_hierarchy_list_as_a_string.cs" />
     <Compile Include="when_printing_a_hierarchy_as_a_string.cs" />
     <Compile Include="Folder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
